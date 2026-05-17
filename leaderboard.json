@@ -1,0 +1,83 @@
+{
+  "title": "HYDRA POINTS LEADERBOARD",
+  "dailyUpdate": "08:00 AM",
+  "resetInfo": "Rankings reset every Friday at 16:00H",
+  "lastUpdated": "2026-05-17 17:29",
+  "rows": [
+    {
+      "rank": 1,
+      "membership": "250001",
+      "points": 35145
+    },
+    {
+      "rank": 2,
+      "membership": "250125",
+      "points": 32542
+    },
+    {
+      "rank": 3,
+      "membership": "250685",
+      "points": 23999
+    },
+    {
+      "rank": 4,
+      "membership": "250357",
+      "points": 21872
+    },
+    {
+      "rank": 5,
+      "membership": "250124",
+      "points": 18564
+    },
+    {
+      "rank": 6,
+      "membership": "250158",
+      "points": 17654
+    },
+    {
+      "rank": 7,
+      "membership": "250123",
+      "points": 14567
+    },
+    {
+      "rank": 8,
+      "membership": "250758",
+      "points": 14257
+    },
+    {
+      "rank": 9,
+      "membership": "250333",
+      "points": 13789
+    },
+    {
+      "rank": 10,
+      "membership": "250111",
+      "points": 13654
+    },
+    {
+      "rank": 11,
+      "membership": "250222",
+      "points": 12474
+    },
+    {
+      "rank": 12,
+      "membership": "250333",
+      "points": 12222
+    },
+    {
+      "rank": 13,
+      "membership": "250444",
+      "points": 10014
+    },
+    {
+      "rank": 14,
+      "membership": "250555",
+      "points": 9854
+    },
+    {
+      "rank": 15,
+      "membership": "250644",
+      "points": 8545
+    }
+  ]
+}

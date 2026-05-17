@@ -121,7 +121,7 @@ function initSparkles() {
 
 async function loadLeaderboard() {
   try {
-    const response = await fetch(`data.json?v=${Date.now()}`);
+    const response = await fetch(`leaderboard.json?v=${Date.now()}`);
     const data = await response.json();
 
     const titleLogo = document.getElementById('titleLogo');
@@ -155,7 +155,7 @@ async function loadLeaderboard() {
       body.appendChild(tr);
     });
   } catch (error) {
-    console.error('Unable to load data.json', error);
+    console.error('Unable to load leaderboard.json', error);
   }
 }
 
