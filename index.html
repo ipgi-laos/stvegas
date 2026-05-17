@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hydra Points Leaderboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="screen-shell">
+    <section class="hero-panel">
+      <div class="bg-orb orb-one"></div>
+      <div class="bg-orb orb-two"></div>
+      <div class="sparkle-layer" id="sparkleLayer" aria-hidden="true"></div>
+      <div class="top-bar">
+        <div class="brand-chip translatable" id="brandChip">WEEKLY HYDRA PROMOTION</div>
+        <div class="update-chip"><span class="translatable" id="dailyUpdateLabel">Daily Update:</span> <strong id="dailyUpdate">08:00 AM</strong></div>
+      </div>
+
+      <div class="main-grid">
+        <aside class="mascot-area">
+          <header class="title-block mascot-title">
+            <p class="translatable" id="topPlayersLabel">TOP 15 PLAYERS</p>
+            <div class="logo-sheen-wrap"><img src="images/hydrapoints.webp" alt="Hydra Points Leaderboard" class="hydra-points-logo" id="titleLogo" /></div>
+          </header>
+          <div class="mascot-glow"></div>
+          <img src="images/hydra-mascot.png" alt="Hydra Mascot" class="mascot" />
+          <div class="reset-card">
+            <span class="translatable" id="resetTitle">Reset Schedule</span>
+            <strong class="translatable" id="resetInfo">Rankings reset every Friday at 16:00H</strong>
+          </div>
+        </aside>
+
+        <section class="leaderboard-card">
+          <div class="leaderboard-meta"><span class="translatable" id="lastUpdatedLabel">Last Updated:</span> <span id="lastUpdated">--</span></div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th class="translatable" id="rankHeader">Rank</th>
+                  <th class="translatable" id="membershipHeader">Membership Number</th>
+                  <th class="translatable" id="pointsHeader">Hydra Points</th>
+                </tr>
+              </thead>
+              <tbody id="leaderboardBody"></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+{
+  "cycleSeconds": 15,
+  "languages": [
+    {
+      "code": "EN",
+      "name": "English",
+      "brandChip": "WEEKLY HYDRA PROMOTION",
+      "topPlayers": "TOP 15 PLAYERS",
+      "dailyUpdateLabel": "Daily Update:",
+      "lastUpdatedLabel": "Last Updated:",
+      "rankHeader": "Rank",
+      "membershipHeader": "Membership Number",
+      "pointsHeader": "Hydra Points",
+      "resetTitle": "Reset Schedule",
+      "resetInfo": "Rankings reset every Friday at 16:00H",
+      "top8Badge": "★ TOP 8"
+    },
+    {
+      "code": "TH",
+      "name": "ไทย",
+      "brandChip": "โปรโมชั่น HYDRA ประจำสัปดาห์",
+      "topPlayers": "ผู้เล่นอันดับสูงสุด 15 คน",
+      "dailyUpdateLabel": "อัปเดตประจำวัน:",
+      "lastUpdatedLabel": "อัปเดตล่าสุด:",
+      "rankHeader": "อันดับ",
+      "membershipHeader": "หมายเลขสมาชิก",
+      "pointsHeader": "คะแนน HYDRA",
+      "resetTitle": "กำหนดการรีเซ็ต",
+      "resetInfo": "อันดับจะรีเซ็ตทุกวันศุกร์ เวลา 16:00 น.",
+      "top8Badge": "★ 8 อันดับแรก"
+    },
+    {
+      "code": "CN",
+      "name": "中文",
+      "brandChip": "每周 HYDRA 活动",
+      "topPlayers": "前 15 名玩家",
+      "dailyUpdateLabel": "每日更新:",
+      "lastUpdatedLabel": "最后更新:",
+      "rankHeader": "排名",
+      "membershipHeader": "会员号码",
+      "pointsHeader": "HYDRA 积分",
+      "resetTitle": "重置时间",
+      "resetInfo": "排名每周五 16:00 重置",
+      "top8Badge": "★ 前 8 名"
+    },
+    {
+      "code": "KR",
+      "name": "한국어",
+      "brandChip": "주간 HYDRA 프로모션",
+      "topPlayers": "상위 15명 플레이어",
+      "dailyUpdateLabel": "일일 업데이트:",
+      "lastUpdatedLabel": "마지막 업데이트:",
+      "rankHeader": "순위",
+      "membershipHeader": "회원 번호",
+      "pointsHeader": "HYDRA 포인트",
+      "resetTitle": "초기화 일정",
+      "resetInfo": "순위는 매주 금요일 16:00에 초기화됩니다",
+      "top8Badge": "★ 상위 8"
+    }
+  ]
+}
