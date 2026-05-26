@@ -103,8 +103,8 @@ td:last-child { border-right: 1px solid rgba(255,215,80,.35); border-radius: 0 1
   user-select: none;
 }
 .tier-badge-img {
-  width: min(62%, 16vw);
-  height: min(3.85vh, 58px);
+  width: min(72%, 19vw);
+  height: min(4.4vh, 70px);
 }
 .status-badge-img {
   width: min(36%, 9vw);
