@@ -104,8 +104,8 @@ td:last-child { border-right: 1px solid rgba(255,215,80,.35); border-radius: 0 1
   flex-shrink: 0;
 }
 .tier-badge-img {
-  width: min(44%, 13.8vw);
-  height: min(3.85vh, 58px);
+  width: min(82%, 22vw);
+  height: min(5.4vh, 80px);
 }
 .tier-progress-bar {
   position: relative;
