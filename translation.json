@@ -10,10 +10,9 @@
       "lastUpdatedLabel": "Last Updated:",
       "rankHeader": "Rank",
       "membershipHeader": "Membership Number",
-      "pointsHeader": "Hydra Points",
       "resetTitle": "Reset Schedule",
       "resetInfo": "Rankings reset every Friday at 16:00H",
-      "top8Badge": "★ TOP 8"
+      "tierStatusHeader": "Tier / Status"
     },
     {
       "code": "TH",
@@ -24,10 +23,9 @@
       "lastUpdatedLabel": "อัปเดตล่าสุด:",
       "rankHeader": "อันดับ",
       "membershipHeader": "หมายเลขสมาชิก",
-      "pointsHeader": "คะแนน HYDRA",
       "resetTitle": "กำหนดการรีเซ็ต",
       "resetInfo": "อันดับจะรีเซ็ตทุกวันศุกร์ เวลา 16:00 น.",
-      "top8Badge": "★ 8 อันดับแรก"
+      "tierStatusHeader": "ระดับ / สถานะ"
     },
     {
       "code": "CN",
@@ -38,10 +36,9 @@
       "lastUpdatedLabel": "最后更新:",
       "rankHeader": "排名",
       "membershipHeader": "会员号码",
-      "pointsHeader": "HYDRA 积分",
       "resetTitle": "重置时间",
       "resetInfo": "排名每周五 16:00 重置",
-      "top8Badge": "★ 前 8 名"
+      "tierStatusHeader": "等级 / 状态"
     },
     {
       "code": "KR",
@@ -52,10 +49,9 @@
       "lastUpdatedLabel": "마지막 업데이트:",
       "rankHeader": "순위",
       "membershipHeader": "회원 번호",
-      "pointsHeader": "HYDRA 포인트",
       "resetTitle": "초기화 일정",
       "resetInfo": "순위는 매주 금요일 16:00에 초기화됩니다",
-      "top8Badge": "★ 상위 8"
+      "tierStatusHeader": "등급 / 상태"
     }
   ]
 }
