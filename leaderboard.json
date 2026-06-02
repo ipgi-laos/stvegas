@@ -2,142 +2,142 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H",
-  "lastUpdated": "2026-06-02 09:09",
+  "lastUpdated": "2026-06-02 11:30",
   "rows": [
     {
       "rank": 1,
       "membership": "250001",
-      "tier": "Platinum",
-      "tierImage": "images/tiers/platinum.webp",
-      "progress": 100,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 2,
       "membership": "250002",
-      "tier": "Platinum",
-      "tierImage": "images/tiers/platinum.webp",
-      "progress": 83,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 3,
       "membership": "250003",
-      "tier": "Platinum",
-      "tierImage": "images/tiers/platinum.webp",
-      "progress": 96,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 4,
       "membership": "250004",
-      "tier": "Platinum",
-      "tierImage": "images/tiers/platinum.webp",
-      "progress": 91,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 5,
       "membership": "250005",
-      "tier": "Gold V",
-      "tierImage": "images/tiers/gold5.webp",
-      "progress": 68,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 6,
       "membership": "250006",
-      "tier": "Gold V",
-      "tierImage": "images/tiers/gold5.webp",
-      "progress": 22,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 7,
       "membership": "250007",
-      "tier": "Gold III",
-      "tierImage": "images/tiers/gold3.webp",
-      "progress": 24,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 8,
       "membership": "250008",
-      "tier": "Gold II",
-      "tierImage": "images/tiers/gold2.webp",
-      "progress": 21,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 9,
       "membership": "250009",
-      "tier": "Gold I",
-      "tierImage": "images/tiers/gold1.webp",
-      "progress": 53,
-      "status": "Rising",
-      "statusImage": "images/status/rising.webp"
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
+      "status": "Almost Promoted",
+      "statusImage": "images/status/promoted.webp"
     },
     {
       "rank": 10,
       "membership": "250010",
-      "tier": "Silver V",
-      "tierImage": "images/tiers/silver5.webp",
-      "progress": 52,
-      "status": "Rising",
-      "statusImage": "images/status/rising.webp"
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
+      "status": "Almost Promoted",
+      "statusImage": "images/status/promoted.webp"
     },
     {
       "rank": 11,
       "membership": "250011",
-      "tier": "Silver V",
-      "tierImage": "images/tiers/silver5.webp",
-      "progress": 45,
-      "status": "Rising",
-      "statusImage": "images/status/rising.webp"
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
+      "status": "Almost Promoted",
+      "statusImage": "images/status/promoted.webp"
     },
     {
       "rank": 12,
       "membership": "250012",
-      "tier": "Silver III",
-      "tierImage": "images/tiers/silver3.webp",
-      "progress": 44,
-      "status": "Rising",
-      "statusImage": "images/status/rising.webp"
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
+      "status": "Almost Promoted",
+      "statusImage": "images/status/promoted.webp"
     },
     {
       "rank": 13,
       "membership": "250013",
-      "tier": "Silver III",
-      "tierImage": "images/tiers/silver3.webp",
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
-      "status": "Rising",
-      "statusImage": "images/status/rising.webp"
+      "status": "Almost Promoted",
+      "statusImage": "images/status/promoted.webp"
     },
     {
       "rank": 14,
       "membership": "250014",
-      "tier": "Bronze IV",
-      "tierImage": "images/tiers/bronze4.webp",
-      "progress": 57,
-      "status": "Rising",
-      "statusImage": "images/status/rising.webp"
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
+      "status": "Almost Promoted",
+      "statusImage": "images/status/promoted.webp"
     },
     {
       "rank": 15,
       "membership": "250015",
-      "tier": "Bronze II",
-      "tierImage": "images/tiers/bronze2.webp",
-      "progress": 9,
-      "status": "Rising",
-      "statusImage": "images/status/rising.webp"
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
+      "status": "Almost Promoted",
+      "statusImage": "images/status/promoted.webp"
     }
   ]
 }
