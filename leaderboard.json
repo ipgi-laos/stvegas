@@ -2,104 +2,104 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H",
-  "lastUpdated": "2026-06-02 09:03",
+  "lastUpdated": "2026-06-02 09:06",
   "rows": [
     {
       "rank": 1,
       "membership": "250001",
-      "tier": "Gold I",
-      "tierImage": "images/tiers/gold1.webp",
-      "progress": 51,
+      "tier": "Platinum",
+      "tierImage": "images/tiers/platinum.webp",
+      "progress": 100,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 2,
       "membership": "250002",
-      "tier": "Gold I",
-      "tierImage": "images/tiers/gold1.webp",
-      "progress": 25,
+      "tier": "Platinum",
+      "tierImage": "images/tiers/platinum.webp",
+      "progress": 83,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 3,
       "membership": "250003",
-      "tier": "Silver V",
-      "tierImage": "images/tiers/silver5.webp",
-      "progress": 40,
+      "tier": "Platinum",
+      "tierImage": "images/tiers/platinum.webp",
+      "progress": 96,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 4,
       "membership": "250357",
-      "tier": "Silver V",
-      "tierImage": "images/tiers/silver5.webp",
-      "progress": 19,
+      "tier": "Platinum",
+      "tierImage": "images/tiers/platinum.webp",
+      "progress": 91,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 5,
       "membership": "250124",
-      "tier": "Silver IV",
-      "tierImage": "images/tiers/silver4.webp",
-      "progress": 71,
+      "tier": "Gold V",
+      "tierImage": "images/tiers/gold5.webp",
+      "progress": 68,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 6,
       "membership": "250158",
-      "tier": "Silver IV",
-      "tierImage": "images/tiers/silver4.webp",
-      "progress": 53,
+      "tier": "Gold V",
+      "tierImage": "images/tiers/gold5.webp",
+      "progress": 22,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 7,
       "membership": "250123",
-      "tier": "Silver III",
-      "tierImage": "images/tiers/silver3.webp",
-      "progress": 91,
+      "tier": "Gold III",
+      "tierImage": "images/tiers/gold3.webp",
+      "progress": 24,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 8,
       "membership": "250758",
-      "tier": "Silver III",
-      "tierImage": "images/tiers/silver3.webp",
-      "progress": 85,
+      "tier": "Gold II",
+      "tierImage": "images/tiers/gold2.webp",
+      "progress": 21,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 9,
       "membership": "250333",
-      "tier": "Silver III",
-      "tierImage": "images/tiers/silver3.webp",
-      "progress": 76,
-      "status": "Almost Promoted",
-      "statusImage": "images/status/promoted.webp"
+      "tier": "Gold I",
+      "tierImage": "images/tiers/gold1.webp",
+      "progress": 53,
+      "status": "Rising",
+      "statusImage": "images/status/rising.webp"
     },
     {
       "rank": 10,
       "membership": "250111",
-      "tier": "Silver III",
-      "tierImage": "images/tiers/silver3.webp",
-      "progress": 73,
-      "status": "Almost Promoted",
-      "statusImage": "images/status/promoted.webp"
+      "tier": "Silver V",
+      "tierImage": "images/tiers/silver5.webp",
+      "progress": 52,
+      "status": "Rising",
+      "statusImage": "images/status/rising.webp"
     },
     {
       "rank": 11,
       "membership": "250222",
-      "tier": "Silver III",
-      "tierImage": "images/tiers/silver3.webp",
-      "progress": 49,
+      "tier": "Silver V",
+      "tierImage": "images/tiers/silver5.webp",
+      "progress": 45,
       "status": "Rising",
       "statusImage": "images/status/rising.webp"
     },
@@ -109,8 +109,8 @@
       "tier": "Silver III",
       "tierImage": "images/tiers/silver3.webp",
       "progress": 44,
-      "status": "Almost Promoted",
-      "statusImage": "images/status/promoted.webp"
+      "status": "Rising",
+      "statusImage": "images/status/rising.webp"
     },
     {
       "rank": 13,
