@@ -2,7 +2,7 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H",
-  "lastUpdated": "2026-06-02 09:08",
+  "lastUpdated": "2026-06-02 09:09",
   "rows": [
     {
       "rank": 1,
@@ -33,7 +33,7 @@
     },
     {
       "rank": 4,
-      "membership": "250357",
+      "membership": "250004",
       "tier": "Platinum",
       "tierImage": "images/tiers/platinum.webp",
       "progress": 91,
@@ -42,7 +42,7 @@
     },
     {
       "rank": 5,
-      "membership": "250124",
+      "membership": "250005",
       "tier": "Gold V",
       "tierImage": "images/tiers/gold5.webp",
       "progress": 68,
@@ -51,7 +51,7 @@
     },
     {
       "rank": 6,
-      "membership": "250158",
+      "membership": "250006",
       "tier": "Gold V",
       "tierImage": "images/tiers/gold5.webp",
       "progress": 22,
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "membership": "250123",
+      "membership": "250007",
       "tier": "Gold III",
       "tierImage": "images/tiers/gold3.webp",
       "progress": 24,
@@ -69,7 +69,7 @@
     },
     {
       "rank": 8,
-      "membership": "250758",
+      "membership": "250008",
       "tier": "Gold II",
       "tierImage": "images/tiers/gold2.webp",
       "progress": 21,
@@ -78,7 +78,7 @@
     },
     {
       "rank": 9,
-      "membership": "250333",
+      "membership": "250009",
       "tier": "Gold I",
       "tierImage": "images/tiers/gold1.webp",
       "progress": 53,
@@ -87,7 +87,7 @@
     },
     {
       "rank": 10,
-      "membership": "250111",
+      "membership": "250010",
       "tier": "Silver V",
       "tierImage": "images/tiers/silver5.webp",
       "progress": 52,
@@ -96,7 +96,7 @@
     },
     {
       "rank": 11,
-      "membership": "250222",
+      "membership": "250011",
       "tier": "Silver V",
       "tierImage": "images/tiers/silver5.webp",
       "progress": 45,
@@ -105,7 +105,7 @@
     },
     {
       "rank": 12,
-      "membership": "250333",
+      "membership": "250012",
       "tier": "Silver III",
       "tierImage": "images/tiers/silver3.webp",
       "progress": 44,
@@ -114,7 +114,7 @@
     },
     {
       "rank": 13,
-      "membership": "250444",
+      "membership": "250013",
       "tier": "Silver III",
       "tierImage": "images/tiers/silver3.webp",
       "progress": 4,
@@ -123,7 +123,7 @@
     },
     {
       "rank": 14,
-      "membership": "250555",
+      "membership": "250014",
       "tier": "Bronze IV",
       "tierImage": "images/tiers/bronze4.webp",
       "progress": 57,
@@ -132,7 +132,7 @@
     },
     {
       "rank": 15,
-      "membership": "250644",
+      "membership": "250015",
       "tier": "Bronze II",
       "tierImage": "images/tiers/bronze2.webp",
       "progress": 9,
