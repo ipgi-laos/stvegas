@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "membership": "250002",
+      "membership": "250001",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -69,7 +69,7 @@
     },
     {
       "rank": 8,
-      "membership": "250003",
+      "membership": "250002",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -78,7 +78,7 @@
     },
     {
       "rank": 9,
-      "membership": "250004",
+      "membership": "250003",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -87,7 +87,7 @@
     },
     {
       "rank": 10,
-      "membership": "250005",
+      "membership": "250004",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -96,7 +96,7 @@
     },
     {
       "rank": 11,
-      "membership": "250006",
+      "membership": "250005",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -105,7 +105,7 @@
     },
     {
       "rank": 12,
-      "membership": "250007",
+      "membership": "250006",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -114,7 +114,7 @@
     },
     {
       "rank": 13,
-      "membership": "250009",
+      "membership": "250007",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -123,7 +123,7 @@
     },
     {
       "rank": 14,
-      "membership": "250010",
+      "membership": "250009",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -132,7 +132,7 @@
     },
     {
       "rank": 15,
-      "membership": "250011",
+      "membership": "250010",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
