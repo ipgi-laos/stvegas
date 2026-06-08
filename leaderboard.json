@@ -2,7 +2,7 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H",
-  "lastUpdated": "2026-06-07 20:37",
+  "lastUpdated": "2026-06-08 09:32",
   "rows": [
     {
       "rank": 1,
@@ -42,6 +42,15 @@
     },
     {
       "rank": 5,
+      "membership": "250258",
+      "tier": "Bronze III",
+      "tierImage": "images/tiers/bronze3.webp",
+      "progress": 25,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 6,
       "membership": "250143",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
@@ -50,7 +59,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "membership": "250255",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
@@ -59,7 +68,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "membership": "250253",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
@@ -68,17 +77,8 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 8,
-      "membership": "250254",
-      "tier": "Bronze I",
-      "tierImage": "images/tiers/bronze1.webp",
-      "progress": 4,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
       "rank": 9,
-      "membership": "250138",
+      "membership": "250254",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -87,7 +87,7 @@
     },
     {
       "rank": 10,
-      "membership": "250252",
+      "membership": "250138",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -96,7 +96,7 @@
     },
     {
       "rank": 11,
-      "membership": "250246",
+      "membership": "250252",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
@@ -105,7 +105,7 @@
     },
     {
       "rank": 12,
-      "membership": "250005",
+      "membership": "250246",
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 4,
