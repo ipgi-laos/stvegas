@@ -12,7 +12,7 @@
       "membershipHeader": "Membership Number",
       "resetTitle": "Reset Schedule",
       "resetInfo": "Rankings reset every Friday at 16:00H",
-      "tierStatusHeader": "Tier / Status"
+      "pointsHeader": "Hydra Points"
     },
     {
       "code": "TH",
@@ -25,7 +25,7 @@
       "membershipHeader": "หมายเลขสมาชิก",
       "resetTitle": "กำหนดการรีเซ็ต",
       "resetInfo": "อันดับจะรีเซ็ตทุกวันศุกร์ เวลา 16:00 น.",
-      "tierStatusHeader": "ระดับ / สถานะ"
+      "pointsHeader": "คะแนน HYDRA"
     },
     {
       "code": "CN",
@@ -38,7 +38,7 @@
       "membershipHeader": "会员号码",
       "resetTitle": "重置时间",
       "resetInfo": "排名每周五 16:00 重置",
-      "tierStatusHeader": "等级 / 状态"
+      "pointsHeader": "HYDRA 积分"
     },
     {
       "code": "KR",
@@ -51,7 +51,7 @@
       "membershipHeader": "회원 번호",
       "resetTitle": "초기화 일정",
       "resetInfo": "순위는 매주 금요일 16:00에 초기화됩니다",
-      "tierStatusHeader": "등급 / 상태"
+      "pointsHeader": "HYDRA 포인트"
     }
   ]
 }
