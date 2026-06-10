@@ -1,83 +1,83 @@
 {
-  "title": "HYDRA POINTS LEADERBOARD",
+  "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H",
-  "lastUpdated": "2026-05-26 10:08",
+  "lastUpdated": "2026-06-10 12:21",
   "rows": [
     {
       "rank": 1,
-      "membership": "250001",
-      "points": 90000
+      "membership": "250008",
+      "points": 6865
     },
     {
       "rank": 2,
-      "membership": "250125",
-      "points": 75000
+      "membership": "250235",
+      "points": 2778
     },
     {
       "rank": 3,
-      "membership": "250685",
-      "points": 50000
+      "membership": "250247",
+      "points": 2766
     },
     {
       "rank": 4,
-      "membership": "250357",
-      "points": 30000
+      "membership": "250251",
+      "points": 1677
     },
     {
       "rank": 5,
-      "membership": "250124",
-      "points": 20000
+      "membership": "250258",
+      "points": 1251
     },
     {
       "rank": 6,
-      "membership": "250158",
-      "points": 15000
+      "membership": "250143",
+      "points": 995
     },
     {
       "rank": 7,
-      "membership": "250123",
-      "points": 9999
+      "membership": "250254",
+      "points": 263
     },
     {
       "rank": 8,
-      "membership": "250333",
-      "points": 7500
+      "membership": "250227",
+      "points": 252
     },
     {
       "rank": 9,
-      "membership": "250758",
-      "points": 7499
+      "membership": "250255",
+      "points": 97
     },
     {
       "rank": 10,
-      "membership": "250111",
-      "points": 5000
+      "membership": "250253",
+      "points": 95
     },
     {
       "rank": 11,
-      "membership": "250222",
-      "points": 3500
+      "membership": "250138",
+      "points": 56
     },
     {
       "rank": 12,
-      "membership": "250333",
-      "points": 3466
+      "membership": "250252",
+      "points": 8
     },
     {
       "rank": 13,
-      "membership": "250444",
-      "points": 1000
+      "membership": "250246",
+      "points": 4
     },
     {
       "rank": 14,
-      "membership": "250555",
-      "points": 600
+      "membership": "250014",
+      "points": 0
     },
     {
       "rank": 15,
-      "membership": "250644",
-      "points": 499
+      "membership": "250015",
+      "points": 0
     }
   ]
 }
