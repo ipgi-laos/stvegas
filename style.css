@@ -91,7 +91,7 @@ td:last-child { border-right: 1px solid rgba(255,215,80,.35); border-radius: 0 1
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: clamp(7px, .7vw, 14px);
+  gap: clamp(6px, .55vw, 12px);
   padding: .18vh .45vw;
 }
 .tier-badge-img,
@@ -101,13 +101,41 @@ td:last-child { border-right: 1px solid rgba(255,215,80,.35); border-radius: 0 1
   filter: drop-shadow(0 0 7px rgba(255, 198, 64, .16));
   pointer-events: none;
   user-select: none;
+  flex-shrink: 0;
 }
 .tier-badge-img {
-  width: min(82%, 22vw);
-  height: min(5.4vh, 80px);
+  width: min(44%, 13.8vw);
+  height: min(3.85vh, 58px);
+}
+.tier-progress-bar {
+  position: relative;
+  flex: 0 0 min(18%, 5.6vw);
+  height: clamp(8px, 1.05vh, 14px);
+  overflow: hidden;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 215, 80, .78);
+  background: linear-gradient(180deg, rgba(28,0,38,.94), rgba(3,0,11,.96));
+  box-shadow: inset 0 0 8px rgba(0,0,0,.68), 0 0 8px rgba(255,194,64,.16);
+}
+.tier-progress-bar::after {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  border-radius: inherit;
+  background: linear-gradient(180deg, rgba(255,255,255,.18), rgba(255,255,255,0) 48%, rgba(255,255,255,.08));
+  pointer-events: none;
+}
+.tier-progress-fill {
+  display: block;
+  height: 100%;
+  max-width: 100%;
+  min-width: 4px;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #7b25ff 0%, #e24dff 42%, #ffd75a 100%);
+  box-shadow: 0 0 10px rgba(255, 210, 90, .50), inset 0 1px 0 rgba(255,255,255,.36);
 }
 .status-badge-img {
-  width: min(36%, 9vw);
+  width: min(29%, 8.3vw);
   height: min(3.15vh, 44px);
 }
 .top-eight-row td:first-child .rank-number { color: #ffe978; }

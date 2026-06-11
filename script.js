@@ -107,6 +107,19 @@ function getStatusAlt(row, index) {
   return index < 8 ? 'Top 8' : 'Rising';
 }
 
+function clampProgress(value) {
+  const number = Number(value);
+  if (!Number.isFinite(number)) return 60;
+  return Math.max(0, Math.min(100, Math.round(number)));
+}
+
+function getProgressValue(row, index) {
+  if (row.progress !== undefined) return clampProgress(row.progress);
+  if (row.progressPercent !== undefined) return clampProgress(row.progressPercent);
+  if (row.tierProgress !== undefined) return clampProgress(row.tierProgress);
+  return index === 0 ? 100 : 60;
+}
+
 function applyTranslation(lang, smooth = true) {
   if (!lang) return;
   currentLanguage = { ...currentLanguage, ...lang };
@@ -224,6 +237,7 @@ async function loadLeaderboard() {
       const statusImage = getStatusImage(row, index);
       const tierAlt = row.tier || 'Tier';
       const statusAlt = getStatusAlt(row, index);
+      const progressValue = getProgressValue(row, index);
 
       tr.innerHTML = `
         <td><div class="rank-wrap rank-only"><span class="rank-number">${rankValue}</span></div></td>
@@ -231,6 +245,9 @@ async function loadLeaderboard() {
         <td>
           <div class="tier-status-wrap">
             <img class="tier-badge-img" src="${tierImage}" alt="" title="${tierAlt}" loading="eager" onerror="withTierFallback(this)" />
+            <div class="tier-progress-bar" title="Ladder progress" aria-label="Ladder progress">
+              <span class="tier-progress-fill" style="width: ${progressValue}%"></span>
+            </div>
             <img class="status-badge-img" src="${statusImage}" alt="" title="${statusAlt}" loading="eager" onerror="withStatusFallback(this)" />
           </div>
         </td>
