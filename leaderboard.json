@@ -2,81 +2,81 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H",
-  "lastUpdated": "2026-06-26 16:21",
+  "lastUpdated": "2026-06-27 15:15",
   "rows": [
     {
       "rank": 1,
-      "membership": "250021",
-      "points": 0
+      "membership": "250072",
+      "points": 2940
     },
     {
       "rank": 2,
-      "membership": "250269",
-      "points": 0
+      "membership": "250218",
+      "points": 2467
     },
     {
       "rank": 3,
-      "membership": "250056",
-      "points": 0
+      "membership": "250162",
+      "points": 1529
     },
     {
       "rank": 4,
       "membership": "250267",
-      "points": 0
+      "points": 1478
     },
     {
       "rank": 5,
-      "membership": "250005",
-      "points": 0
+      "membership": "250208",
+      "points": 949
     },
     {
       "rank": 6,
-      "membership": "250258",
-      "points": 0
+      "membership": "250056",
+      "points": 940
     },
     {
       "rank": 7,
-      "membership": "250162",
-      "points": 0
+      "membership": "250038",
+      "points": 855
     },
     {
       "rank": 8,
-      "membership": "250251",
-      "points": 0
+      "membership": "250281",
+      "points": 280
     },
     {
       "rank": 9,
-      "membership": "250008",
-      "points": 0
+      "membership": "250251",
+      "points": 88
     },
     {
       "rank": 10,
-      "membership": "250038",
+      "membership": "",
       "points": 0
     },
     {
       "rank": 11,
-      "membership": "250001",
+      "membership": "",
       "points": 0
     },
     {
       "rank": 12,
-      "membership": "250012",
+      "membership": "",
       "points": 0
     },
     {
       "rank": 13,
-      "membership": "250218",
+      "membership": "",
       "points": 0
     },
     {
       "rank": 14,
-      "membership": "250072",
+      "membership": "",
       "points": 0
     },
     {
       "rank": 15,
-      "membership": "250254",
+      "membership": "",
       "points": 0
     }
   ]
