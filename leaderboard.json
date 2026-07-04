@@ -2,7 +2,7 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H",
-  "lastUpdated": "2026-07-04 16:10",
+  "lastUpdated": "2026-07-04 17:47",
   "rows": [
     {
       "rank": 1,
@@ -26,23 +26,23 @@
     },
     {
       "rank": 5,
+      "membership": "250266",
+      "points": 98
+    },
+    {
+      "rank": 6,
       "membership": "250267",
       "points": 60
     },
     {
-      "rank": 6,
+      "rank": 7,
       "membership": "250254",
       "points": 29
     },
     {
-      "rank": 7,
-      "membership": "-",
-      "points": 0
-    },
-    {
       "rank": 8,
-      "membership": "-",
-      "points": 0
+      "membership": "250267",
+      "points": 21
     },
     {
       "rank": 9,
