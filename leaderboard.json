@@ -2,82 +2,82 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-08-07 09:46",
+  "lastUpdated": "2026-08-07 22:00",
   "rows": [
     {
       "rank": 1,
       "membership": "250005",
-      "points": 7831
+      "points": 0
     },
     {
       "rank": 2,
       "membership": "250253",
-      "points": 7727
+      "points": 0
     },
     {
       "rank": 3,
       "membership": "250258",
-      "points": 5478
+      "points": 0
     },
     {
       "rank": 4,
       "membership": "250069",
-      "points": 4038
+      "points": 0
     },
     {
       "rank": 5,
       "membership": "250021",
-      "points": 2440
+      "points": 0
     },
     {
       "rank": 6,
       "membership": "250306",
-      "points": 1363
+      "points": 0
     },
     {
       "rank": 7,
       "membership": "250251",
-      "points": 1308
+      "points": 0
     },
     {
       "rank": 8,
       "membership": "250038",
-      "points": 812
+      "points": 0
     },
     {
       "rank": 9,
       "membership": "250267",
-      "points": 617
+      "points": 0
     },
     {
       "rank": 10,
       "membership": "250260",
-      "points": 531
+      "points": 0
     },
     {
       "rank": 11,
       "membership": "250235",
-      "points": 339
+      "points": 0
     },
     {
       "rank": 12,
       "membership": "250281",
-      "points": 181
+      "points": 0
     },
     {
       "rank": 13,
       "membership": "250138",
-      "points": 156
+      "points": 0
     },
     {
       "rank": 14,
       "membership": "250254",
-      "points": 135
+      "points": 0
     },
     {
       "rank": 15,
       "membership": "250269",
-      "points": 67
+      "points": 0
     }
   ]
 }
