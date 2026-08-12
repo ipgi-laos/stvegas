@@ -2,32 +2,32 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-08-12 06:32",
+  "lastUpdated": "2026-08-13 06:24",
   "rows": [
     {
       "rank": 1,
       "membership": "250069",
-      "points": 21071
+      "points": 28662
     },
     {
       "rank": 2,
-      "membership": "250005",
-      "points": 9273
+      "membership": "250202",
+      "points": 10755
     },
     {
       "rank": 3,
-      "membership": "250202",
-      "points": 8726
+      "membership": "250005",
+      "points": 9678
     },
     {
       "rank": 4,
-      "membership": "250012",
-      "points": 3893
+      "membership": "250258",
+      "points": 4637
     },
     {
       "rank": 5,
-      "membership": "250258",
-      "points": 3524
+      "membership": "250012",
+      "points": 3893
     },
     {
       "rank": 6,
@@ -36,48 +36,48 @@
     },
     {
       "rank": 7,
-      "membership": "250281",
-      "points": 575
+      "membership": "250038",
+      "points": 604
     },
     {
       "rank": 8,
       "membership": "250267",
-      "points": 520
+      "points": 596
     },
     {
       "rank": 9,
+      "membership": "250281",
+      "points": 575
+    },
+    {
+      "rank": 10,
       "membership": "250036",
       "points": 468
     },
     {
-      "rank": 10,
+      "rank": 11,
       "membership": "250269",
       "points": 424
     },
     {
-      "rank": 11,
+      "rank": 12,
       "membership": "250265",
       "points": 388
     },
     {
-      "rank": 12,
-      "membership": "250038",
-      "points": 178
+      "rank": 13,
+      "membership": "250251",
+      "points": 373
     },
     {
-      "rank": 13,
+      "rank": 14,
       "membership": "250254",
       "points": 129
     },
     {
-      "rank": 14,
-      "membership": "250162",
-      "points": 17
-    },
-    {
       "rank": 15,
-      "membership": "",
-      "points": 0
+      "membership": "250260",
+      "points": 49
     }
   ]
 }
