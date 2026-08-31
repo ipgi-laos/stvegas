@@ -9,6 +9,8 @@ let currentLanguage = {
   rankHeader: 'Rank',
   membershipHeader: 'Membership Number',
   pointsHeader: 'Hydra Points',
+  promoTitle: 'Promotion Info',
+  promoInfo: 'Play with a minimum bet of 3,000 THB on promotion day for a chance to win 35,000 THB.',
   resetTitle: 'Reset Schedule',
   resetInfo: 'Rankings reset every Friday at 16:00H'
 };
@@ -37,6 +39,8 @@ function applyTranslation(lang, smooth = true) {
     'rankHeader',
     'membershipHeader',
     'pointsHeader',
+    'promoTitle',
+    'promoInfo',
     'resetTitle',
     'resetInfo'
   ].map((id) => document.getElementById(id)).filter(Boolean);
@@ -53,6 +57,8 @@ function applyTranslation(lang, smooth = true) {
     setText('rankHeader', currentLanguage.rankHeader);
     setText('membershipHeader', currentLanguage.membershipHeader);
     setText('pointsHeader', currentLanguage.pointsHeader || 'Hydra Points');
+    setText('promoTitle', currentLanguage.promoTitle);
+    setText('promoInfo', currentLanguage.promoInfo);
     setText('resetTitle', currentLanguage.resetTitle);
     setText('resetInfo', currentLanguage.resetInfo);
 

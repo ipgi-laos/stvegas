@@ -10,6 +10,8 @@
       "lastUpdatedLabel": "Last Updated:",
       "rankHeader": "Rank",
       "membershipHeader": "Membership Number",
+      "promoTitle": "Promotion Info",
+      "promoInfo": "Play with a minimum bet of 3,000 THB on promotion day for a chance to win 35,000 THB.",
       "resetTitle": "Reset Schedule",
       "resetInfo": "Rankings reset every Friday at 16:00H",
       "pointsHeader": "Hydra Points"
@@ -23,6 +25,8 @@
       "lastUpdatedLabel": "อัปเดตล่าสุด:",
       "rankHeader": "อันดับ",
       "membershipHeader": "หมายเลขสมาชิก",
+      "promoTitle": "ข้อมูลโปรโมชั่น",
+      "promoInfo": "เดิมพันขั้นต่ำ 3,000 บาทในวันโปรโมชั่น เพื่อลุ้นรับรางวัล 35,000 บาท",
       "resetTitle": "กำหนดการรีเซ็ต",
       "resetInfo": "อันดับจะรีเซ็ตทุกวันศุกร์ เวลา 16:00 น.",
       "pointsHeader": "คะแนน HYDRA"
@@ -36,6 +40,8 @@
       "lastUpdatedLabel": "最后更新:",
       "rankHeader": "排名",
       "membershipHeader": "会员号码",
+      "promoTitle": "活动信息",
+      "promoInfo": "活动当天最低投注 3,000 泰铢，即有机会赢取 35,000 泰铢。",
       "resetTitle": "重置时间",
       "resetInfo": "排名每周五 16:00 重置",
       "pointsHeader": "HYDRA 积分"
@@ -49,6 +55,8 @@
       "lastUpdatedLabel": "마지막 업데이트:",
       "rankHeader": "순위",
       "membershipHeader": "회원 번호",
+      "promoTitle": "프로모션 안내",
+      "promoInfo": "프로모션 당일 최소 3,000 THB 이상 베팅하고 35,000 THB 당첨 기회를 잡으세요.",
       "resetTitle": "초기화 일정",
       "resetInfo": "순위는 매주 금요일 16:00에 초기화됩니다",
       "pointsHeader": "HYDRA 포인트"
