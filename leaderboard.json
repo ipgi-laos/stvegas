@@ -2,50 +2,60 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-09-21 06:08",
+  "lastUpdated": "2026-09-22 06:19",
   "rows": [
     {
       "rank": 1,
       "membership": "250012",
-      "points": 3650,
-      "tier": "Bronze V",
-      "tierImage": "images/tiers/bronze5.webp",
-      "progress": 10,
+      "points": 5509,
+      "tier": "Silver I",
+      "tierImage": "images/tiers/silver1.webp",
+      "progress": 20,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 2,
       "membership": "250267",
-      "points": 2012,
+      "points": 2125,
       "tier": "Bronze IV",
       "tierImage": "images/tiers/bronze4.webp",
-      "progress": 4,
+      "progress": 8,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 3,
       "membership": "250306",
-      "points": 985,
-      "tier": "Bronze II",
-      "tierImage": "images/tiers/bronze2.webp",
-      "progress": 97,
+      "points": 1525,
+      "tier": "Bronze III",
+      "tierImage": "images/tiers/bronze3.webp",
+      "progress": 52,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 4,
       "membership": "250258",
-      "points": 752,
-      "tier": "Bronze II",
-      "tierImage": "images/tiers/bronze2.webp",
-      "progress": 50,
+      "points": 1017,
+      "tier": "Bronze III",
+      "tierImage": "images/tiers/bronze3.webp",
+      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 5,
+      "membership": "250202",
+      "points": 284,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 46,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 6,
       "membership": "250066",
       "points": 34,
       "tier": "Unranked",
@@ -53,16 +63,6 @@
       "progress": 0,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 6,
-      "membership": "",
-      "points": 0,
-      "tier": "Unranked",
-      "tierImage": "",
-      "progress": 0,
-      "status": "Unranked",
-      "statusImage": ""
     },
     {
       "rank": 7,
