@@ -2,15 +2,15 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-09-27 21:42",
+  "lastUpdated": "2026-09-28 09:24",
   "rows": [
     {
       "rank": 1,
       "membership": "250306",
-      "points": 5619,
+      "points": 6807,
       "tier": "Silver I",
       "tierImage": "images/tiers/silver1.webp",
-      "progress": 25,
+      "progress": 72,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
@@ -26,6 +26,16 @@
     },
     {
       "rank": 3,
+      "membership": "250267",
+      "points": 700,
+      "tier": "Bronze II",
+      "tierImage": "images/tiers/bronze2.webp",
+      "progress": 40,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 4,
       "membership": "250254",
       "points": 679,
       "tier": "Bronze II",
@@ -35,7 +45,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "membership": "250309",
       "points": 481,
       "tier": "Bronze I",
@@ -45,7 +55,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "membership": "250056",
       "points": 463,
       "tier": "Bronze I",
@@ -55,19 +65,9 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "membership": "250143",
       "points": 422,
-      "tier": "Bronze I",
-      "tierImage": "images/tiers/bronze1.webp",
-      "progress": 80,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 7,
-      "membership": "250267",
-      "points": 418,
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
       "progress": 80,
