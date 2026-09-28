@@ -2,7 +2,7 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-09-28 09:25",
+  "lastUpdated": "2026-09-29 06:07",
   "rows": [
     {
       "rank": 1,
@@ -17,15 +17,25 @@
     {
       "rank": 2,
       "membership": "250258",
-      "points": 1206,
-      "tier": "Bronze III",
-      "tierImage": "images/tiers/bronze3.webp",
-      "progress": 21,
+      "points": 2670,
+      "tier": "Bronze IV",
+      "tierImage": "images/tiers/bronze4.webp",
+      "progress": 45,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 3,
+      "membership": "250309",
+      "points": 1198,
+      "tier": "Bronze III",
+      "tierImage": "images/tiers/bronze3.webp",
+      "progress": 20,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 4,
       "membership": "250267",
       "points": 700,
       "tier": "Bronze II",
@@ -35,7 +45,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "membership": "250254",
       "points": 679,
       "tier": "Bronze II",
@@ -45,32 +55,22 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 5,
-      "membership": "250309",
-      "points": 481,
-      "tier": "Bronze I",
-      "tierImage": "images/tiers/bronze1.webp",
-      "progress": 95,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
       "rank": 6,
-      "membership": "250056",
-      "points": 463,
+      "membership": "250143",
+      "points": 489,
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
-      "progress": 91,
+      "progress": 97,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 7,
-      "membership": "250143",
-      "points": 422,
+      "membership": "250056",
+      "points": 463,
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
-      "progress": 80,
+      "progress": 91,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
