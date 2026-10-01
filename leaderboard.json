@@ -2,15 +2,15 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-10-01 06:14",
+  "lastUpdated": "2026-10-02 06:27",
   "rows": [
     {
       "rank": 1,
       "membership": "250306",
-      "points": 10288,
+      "points": 11666,
       "tier": "Silver III",
       "tierImage": "images/tiers/silver3.webp",
-      "progress": 6,
+      "progress": 33,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
@@ -26,6 +26,26 @@
     },
     {
       "rank": 3,
+      "membership": "250267",
+      "points": 2044,
+      "tier": "Bronze IV",
+      "tierImage": "images/tiers/bronze4.webp",
+      "progress": 4,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 4,
+      "membership": "250012",
+      "points": 1532,
+      "tier": "Bronze III",
+      "tierImage": "images/tiers/bronze3.webp",
+      "progress": 53,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 5,
       "membership": "250309",
       "points": 1198,
       "tier": "Bronze III",
@@ -35,32 +55,12 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 4,
-      "membership": "250012",
-      "points": 1067,
-      "tier": "Bronze III",
-      "tierImage": "images/tiers/bronze3.webp",
-      "progress": 7,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "membership": "250143",
       "points": 1048,
       "tier": "Bronze III",
       "tierImage": "images/tiers/bronze3.webp",
       "progress": 5,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 6,
-      "membership": "250267",
-      "points": 1031,
-      "tier": "Bronze III",
-      "tierImage": "images/tiers/bronze3.webp",
-      "progress": 4,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
