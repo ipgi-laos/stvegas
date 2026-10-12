@@ -2,7 +2,7 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-10-12 06:09",
+  "lastUpdated": "2026-10-13 06:12",
   "rows": [
     {
       "rank": 1,
@@ -16,6 +16,16 @@
     },
     {
       "rank": 2,
+      "membership": "250267",
+      "points": 883,
+      "tier": "Bronze II",
+      "tierImage": "images/tiers/bronze2.webp",
+      "progress": 77,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 3,
       "membership": "250218",
       "points": 706,
       "tier": "Bronze II",
@@ -25,17 +35,17 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 3,
-      "membership": "250267",
-      "points": 377,
+      "rank": 4,
+      "membership": "250309",
+      "points": 402,
       "tier": "Bronze I",
       "tierImage": "images/tiers/bronze1.webp",
-      "progress": 69,
+      "progress": 76,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "membership": "250269",
       "points": 225,
       "tier": "Bronze I",
@@ -45,7 +55,17 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "membership": "250128",
+      "points": 192,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 23,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 7,
       "membership": "250254",
       "points": 68,
       "tier": "Unranked",
@@ -55,7 +75,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "membership": "250066",
       "points": 13,
       "tier": "Unranked",
@@ -63,26 +83,6 @@
       "progress": 0,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 7,
-      "membership": "",
-      "points": 0,
-      "tier": "Unranked",
-      "tierImage": "",
-      "progress": 0,
-      "status": "Unranked",
-      "statusImage": ""
-    },
-    {
-      "rank": 8,
-      "membership": "",
-      "points": 0,
-      "tier": "Unranked",
-      "tierImage": "",
-      "progress": 0,
-      "status": "Unranked",
-      "statusImage": ""
     },
     {
       "rank": 9,
