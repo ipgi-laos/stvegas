@@ -2,7 +2,7 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-10-17 19:56",
+  "lastUpdated": "2026-10-18 06:10",
   "rows": [
     {
       "rank": 1,
@@ -26,16 +26,26 @@
     },
     {
       "rank": 3,
-      "membership": "250254",
-      "points": 598,
+      "membership": "250349",
+      "points": 721,
       "tier": "Bronze II",
       "tierImage": "images/tiers/bronze2.webp",
-      "progress": 20,
+      "progress": 44,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 4,
+      "membership": "250254",
+      "points": 607,
+      "tier": "Bronze II",
+      "tierImage": "images/tiers/bronze2.webp",
+      "progress": 21,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 5,
       "membership": "250038",
       "points": 407,
       "tier": "Bronze I",
@@ -45,7 +55,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "membership": "250252",
       "points": 380,
       "tier": "Bronze I",
@@ -55,7 +65,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "membership": "250346",
       "points": 167,
       "tier": "Bronze I",
@@ -65,7 +75,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "membership": "250143",
       "points": 105,
       "tier": "Bronze I",
@@ -75,28 +85,18 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "membership": "250066",
       "points": 21,
       "tier": "Unranked",
       "tierImage": "",
       "progress": 0,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 9,
-      "membership": "",
-      "points": 0,
-      "tier": "Unranked",
-      "tierImage": "",
-      "progress": 0,
-      "status": "Unranked",
-      "statusImage": ""
+      "status": "Almost Promoted",
+      "statusImage": "images/status/promoted.webp"
     },
     {
       "rank": 10,
-      "membership": "",
+      "membership": "250267",
       "points": 0,
       "tier": "Unranked",
       "tierImage": "",
