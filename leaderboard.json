@@ -2,15 +2,15 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-11-10 06:12",
+  "lastUpdated": "2026-11-11 08:21",
   "rows": [
     {
       "rank": 1,
       "membership": "250268",
-      "points": 12750,
+      "points": 13943,
       "tier": "Silver III",
       "tierImage": "images/tiers/silver3.webp",
-      "progress": 55,
+      "progress": 79,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
@@ -27,10 +27,10 @@
     {
       "rank": 3,
       "membership": "250267",
-      "points": 2480,
+      "points": 2506,
       "tier": "Bronze IV",
       "tierImage": "images/tiers/bronze4.webp",
-      "progress": 32,
+      "progress": 34,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
@@ -47,10 +47,10 @@
     {
       "rank": 5,
       "membership": "250038",
-      "points": 830,
+      "points": 920,
       "tier": "Bronze II",
       "tierImage": "images/tiers/bronze2.webp",
-      "progress": 66,
+      "progress": 84,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
@@ -87,17 +87,17 @@
     {
       "rank": 9,
       "membership": "250344",
-      "points": 88,
-      "tier": "Unranked",
-      "tierImage": "",
-      "progress": 0,
+      "points": 116,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 4,
       "status": "Almost Promoted",
       "statusImage": "images/status/promoted.webp"
     },
     {
       "rank": 10,
-      "membership": "250254",
-      "points": 26,
+      "membership": "250249",
+      "points": 95,
       "tier": "Unranked",
       "tierImage": "",
       "progress": 0,
@@ -106,13 +106,13 @@
     },
     {
       "rank": 11,
-      "membership": "",
-      "points": 0,
+      "membership": "250254",
+      "points": 26,
       "tier": "Unranked",
       "tierImage": "",
       "progress": 0,
-      "status": "Unranked",
-      "statusImage": ""
+      "status": "Almost Promoted",
+      "statusImage": "images/status/promoted.webp"
     },
     {
       "rank": 12,
