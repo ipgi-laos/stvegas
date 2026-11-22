@@ -2,10 +2,20 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-11-21 07:38",
+  "lastUpdated": "2026-11-23 06:16",
   "rows": [
     {
       "rank": 1,
+      "membership": "250005",
+      "points": 2828,
+      "tier": "Bronze IV",
+      "tierImage": "images/tiers/bronze4.webp",
+      "progress": 55,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
+    },
+    {
+      "rank": 2,
       "membership": "250252",
       "points": 2184,
       "tier": "Bronze IV",
@@ -15,7 +25,7 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "membership": "250319",
       "points": 1442,
       "tier": "Bronze III",
@@ -25,64 +35,54 @@
       "statusImage": "images/status/top8.webp"
     },
     {
-      "rank": 3,
-      "membership": "250005",
-      "points": 439,
-      "tier": "Bronze I",
-      "tierImage": "images/tiers/bronze1.webp",
-      "progress": 85,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
       "rank": 4,
-      "membership": "250267",
-      "points": 102,
-      "tier": "Bronze I",
-      "tierImage": "images/tiers/bronze1.webp",
-      "progress": 4,
+      "membership": "250143",
+      "points": 650,
+      "tier": "Bronze II",
+      "tierImage": "images/tiers/bronze2.webp",
+      "progress": 30,
       "status": "Top 8",
       "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 5,
-      "membership": "",
-      "points": 0,
-      "tier": "Unranked",
-      "tierImage": "",
-      "progress": 0,
-      "status": "Unranked",
-      "statusImage": ""
+      "membership": "250202",
+      "points": 424,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 81,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 6,
-      "membership": "",
-      "points": 0,
-      "tier": "Unranked",
-      "tierImage": "",
-      "progress": 0,
-      "status": "Unranked",
-      "statusImage": ""
+      "membership": "250267",
+      "points": 272,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 43,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 7,
-      "membership": "",
-      "points": 0,
-      "tier": "Unranked",
-      "tierImage": "",
-      "progress": 0,
-      "status": "Unranked",
-      "statusImage": ""
+      "membership": "250349",
+      "points": 231,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 33,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 8,
-      "membership": "",
-      "points": 0,
-      "tier": "Unranked",
-      "tierImage": "",
-      "progress": 0,
-      "status": "Unranked",
-      "statusImage": ""
+      "membership": "250012",
+      "points": 173,
+      "tier": "Bronze I",
+      "tierImage": "images/tiers/bronze1.webp",
+      "progress": 18,
+      "status": "Top 8",
+      "statusImage": "images/status/top8.webp"
     },
     {
       "rank": 9,
