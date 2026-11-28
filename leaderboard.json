@@ -2,147 +2,147 @@
   "title": "HYDRA LADDER LEADERBOARD",
   "dailyUpdate": "08:00 AM",
   "resetInfo": "Rankings reset every Friday at 16:00H.",
-  "lastUpdated": "2026-11-26 06:18",
+  "lastUpdated": "2026-11-28 08:08",
   "rows": [
     {
       "rank": 1,
-      "membership": "250005",
-      "points": 8411,
-      "tier": "Silver II",
-      "tierImage": "images/tiers/silver2.webp",
-      "progress": 36,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 2,
-      "membership": "250143",
-      "points": 6262,
-      "tier": "Silver I",
-      "tierImage": "images/tiers/silver1.webp",
-      "progress": 50,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 3,
-      "membership": "250012",
-      "points": 4979,
-      "tier": "Bronze V",
-      "tierImage": "images/tiers/bronze5.webp",
-      "progress": 99,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 4,
-      "membership": "250319",
-      "points": 3156,
-      "tier": "Bronze IV",
-      "tierImage": "images/tiers/bronze4.webp",
-      "progress": 77,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 5,
-      "membership": "250252",
-      "points": 2513,
-      "tier": "Bronze IV",
-      "tierImage": "images/tiers/bronze4.webp",
-      "progress": 34,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 6,
-      "membership": "250056",
-      "points": 1848,
-      "tier": "Bronze III",
-      "tierImage": "images/tiers/bronze3.webp",
-      "progress": 85,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 7,
-      "membership": "250267",
-      "points": 704,
-      "tier": "Bronze II",
-      "tierImage": "images/tiers/bronze2.webp",
-      "progress": 41,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 8,
-      "membership": "250306",
-      "points": 664,
-      "tier": "Bronze II",
-      "tierImage": "images/tiers/bronze2.webp",
-      "progress": 33,
-      "status": "Top 8",
-      "statusImage": "images/status/top8.webp"
-    },
-    {
-      "rank": 9,
-      "membership": "250038",
-      "points": 642,
-      "tier": "Bronze II",
-      "tierImage": "images/tiers/bronze2.webp",
-      "progress": 28,
-      "status": "Almost Promoted",
-      "statusImage": "images/status/promoted.webp"
-    },
-    {
-      "rank": 10,
-      "membership": "250202",
-      "points": 424,
-      "tier": "Bronze I",
-      "tierImage": "images/tiers/bronze1.webp",
-      "progress": 81,
-      "status": "Almost Promoted",
-      "statusImage": "images/status/promoted.webp"
-    },
-    {
-      "rank": 11,
-      "membership": "250360",
-      "points": 365,
-      "tier": "Bronze I",
-      "tierImage": "images/tiers/bronze1.webp",
-      "progress": 66,
-      "status": "Almost Promoted",
-      "statusImage": "images/status/promoted.webp"
-    },
-    {
-      "rank": 12,
-      "membership": "250349",
-      "points": 231,
-      "tier": "Bronze I",
-      "tierImage": "images/tiers/bronze1.webp",
-      "progress": 33,
-      "status": "Almost Promoted",
-      "statusImage": "images/status/promoted.webp"
-    },
-    {
-      "rank": 13,
-      "membership": "250066",
-      "points": 203,
-      "tier": "Bronze I",
-      "tierImage": "images/tiers/bronze1.webp",
-      "progress": 26,
-      "status": "Almost Promoted",
-      "statusImage": "images/status/promoted.webp"
-    },
-    {
-      "rank": 14,
-      "membership": "250116",
-      "points": 27,
+      "membership": "",
+      "points": 0,
       "tier": "Unranked",
       "tierImage": "",
       "progress": 0,
-      "status": "Almost Promoted",
-      "statusImage": "images/status/promoted.webp"
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 2,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 3,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 4,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 5,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 6,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 7,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 8,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 9,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 10,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 11,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 12,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 13,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
+    },
+    {
+      "rank": 14,
+      "membership": "",
+      "points": 0,
+      "tier": "Unranked",
+      "tierImage": "",
+      "progress": 0,
+      "status": "Unranked",
+      "statusImage": ""
     },
     {
       "rank": 15,
